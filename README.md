@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil
 
 Meu nome é Ruan Cesar
 
@@ -6,7 +6,7 @@ Meu nome é Ruan Cesar
 - Estou me desenvolvendo na linguagem Java Script
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
- ### Voce entrar em contato comigo :mailbox
+ ### Voce entrar em contato comigo
 
  guimaraes.ruan@escola.pr.gov.br
 
